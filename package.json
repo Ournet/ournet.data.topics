@@ -1,0 +1,29 @@
+{
+  "name": "ournet.data.topics",
+  "version": "0.1.0",
+  "description": "Ournet topics data module",
+  "main": "./lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ournet/ournet.data.topics.git"
+  },
+  "dependencies": {
+    "joi": "~6.4.1",
+    "ournet.core": "^0.1.8",
+    "slug": "~0.9.1",
+    "vogels": "~2.0.0-rc9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "data",
+    "ournet",
+    "topics"
+  ],
+  "author": "Dumitru Cantea",
+  "license": "ISC"
+}
