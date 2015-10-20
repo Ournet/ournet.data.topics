@@ -1,6 +1,6 @@
 {
   "name": "ournet.data.topics",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Ournet topics data module",
   "main": "./lib/index.js",
   "directories": {
